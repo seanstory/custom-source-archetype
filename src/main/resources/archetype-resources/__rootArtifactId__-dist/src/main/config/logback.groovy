@@ -8,6 +8,6 @@ appender("console", ConsoleAppender) {
     encoder(PatternLayoutEncoder) { pattern = PATTERN }
 }
 
-logger("com.sstory", DEBUG)
+logger("${package}", DEBUG)
 logger("com.sstory.workplace.search.client", TRACE)
 root(INFO, ["console"])

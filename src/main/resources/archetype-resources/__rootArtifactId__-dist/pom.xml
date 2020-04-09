@@ -12,8 +12,8 @@
 
     <dependencies>
         <dependency>
-            <groupId>com.sstory.source.custom.example</groupId>
-            <artifactId>example-custom-source-core</artifactId>
+            <groupId>${groupId}</groupId>
+            <artifactId>${rootArtifactId}-core</artifactId>
             <version>${project.version}</version>
         </dependency>
     </dependencies>

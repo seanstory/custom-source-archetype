@@ -1,4 +1,4 @@
-# Workplace Search : Custom Source Example
+# Workplace Search : Custom Source - ${rootArtifactId}
 
 This project is intended to be a Custom API Source for Elastic's Workplace Search.
 

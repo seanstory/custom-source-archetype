@@ -1,4 +1,7 @@
-package com.sstory.source.custom.example.filesystem.run
+#set( $symbol_pound = '#' )
+#set( $symbol_dollar = '$' )
+#set( $symbol_escape = '\' )
+package ${package}.run;
 
 import com.sstory.workplace.search.sdk.run.Sync
 import org.junit.Rule
