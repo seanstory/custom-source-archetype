@@ -80,3 +80,4 @@ Looking for a real-world example? The below are known projects that leveraged th
 project and want to share your successes with the community, open a PR to add a link!
 
 * [Custom Source Example](https://github.com/seanstory/ws-custom-source-example) (the genesis of this project)
+* [Filesystem Souce](https://github.com/seanstory/filesystem-workplace-search-source)
