@@ -1,5 +1,5 @@
-# Workplace Search - Custom API Source Example
-A Custom API Source implementation for Elastic Workplace Search that crawls a filesystem for content.
+# Workplace Search - Custom API Source - ${artifactId}
+A Custom API Source implementation for Elastic Workplace Search.
 
 ### Building
 To build the project, run a simple

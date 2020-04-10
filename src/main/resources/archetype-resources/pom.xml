@@ -167,10 +167,13 @@
                     </execution>
                     <!-- Re-add them here so they run AFTER the kotlin compilation -->
                     <execution>
-                        <id>java-compile</id>
+                        <id>java-groovy-compile</id>
                         <goals>
                             <goal>compile</goal>
                         </goals>
+                        <configuration>
+                            <compilerId>groovy-eclipse-compiler</compilerId>
+                        </configuration>
                     </execution>
                     <execution>
                         <id>java-groovy-testCompile</id>
