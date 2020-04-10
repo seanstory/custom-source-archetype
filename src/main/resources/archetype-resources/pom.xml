@@ -4,7 +4,6 @@
 
     <groupId>${groupId}</groupId>
     <artifactId>${artifactId}</artifactId>
-    <name>Workplace Search Example Custom Source :: Parent</name>
     <packaging>pom</packaging>
     <version>${version}</version>
 
