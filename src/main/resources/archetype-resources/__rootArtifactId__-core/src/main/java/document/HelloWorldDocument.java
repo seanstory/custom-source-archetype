@@ -3,7 +3,7 @@
 #set( $symbol_escape = '\' )
 package ${package}.document;
 
-import com.sstory.workplace.search.sdk.api.DocumentBase;
+import com.seanjstory.workplace.search.sdk.api.DocumentBase;
 
 import java.util.Collections;
 import java.util.Map;

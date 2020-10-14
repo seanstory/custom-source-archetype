@@ -3,8 +3,8 @@
 #set( $symbol_escape = '\' )
 package ${package}.sources;
 
-import com.sstory.workplace.search.sdk.api.Source;
-import com.sstory.workplace.search.sdk.api.Yielder;
+import com.seanjstory.workplace.search.sdk.api.Source;
+import com.seanjstory.workplace.search.sdk.api.Yielder;
 import ${package}.document.HelloWorldDocument;
 
 import java.time.Instant;

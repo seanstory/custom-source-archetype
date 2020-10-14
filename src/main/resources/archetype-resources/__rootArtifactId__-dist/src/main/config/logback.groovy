@@ -9,5 +9,5 @@ appender("console", ConsoleAppender) {
 }
 
 logger("${package}", DEBUG)
-logger("com.sstory.workplace.search.client", TRACE)
+logger("com.seanjstory.workplace.search.client", TRACE)
 root(INFO, ["console"])
